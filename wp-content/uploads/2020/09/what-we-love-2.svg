@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1887" height="538" viewBox="0 0 1887 538">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_32" data-name="Rectangle 32" width="1887" height="538" transform="translate(33 2478)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f3f8ff"/>
+      <stop offset="1" stop-color="#f3f8ff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#7854d6" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#7d4fd5" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="what-we_love" data-name="what-we love" transform="translate(-33 -2478)" clip-path="url(#clip-path)">
+    <g id="Group_22" data-name="Group 22">
+      <path id="Polygon_2" data-name="Polygon 2" d="M597.608,34.821a56,56,0,0,1,75.784,0l491.8,451.945C1202.772,521.3,1178.338,584,1127.3,584H143.7c-51.038,0-75.472-62.7-37.892-97.233Z" transform="translate(1024 2478)" fill="url(#linear-gradient)"/>
+      <circle id="Ellipse_5" data-name="Ellipse 5" cx="75" cy="75" r="75" transform="translate(123 2816)" opacity="0.5" fill="url(#linear-gradient-2)"/>
+    </g>
+  </g>
+</svg>

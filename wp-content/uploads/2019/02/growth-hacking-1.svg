@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="113.88" height="113.881" viewBox="0 0 113.88 113.881">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#99aff7"/>
+      <stop offset="1" stop-color="#7c98f5"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <circle id="Ellipse_38" data-name="Ellipse 38" cx="56.94" cy="56.94" r="56.94" fill="url(#linear-gradient)"/>
+    </clipPath>
+  </defs>
+  <g id="growth-hacking" transform="translate(-900.608 -4013.608)" opacity="0.3">
+    <g id="Group_752" data-name="Group 752" transform="translate(900.608 4013.608)">
+      <g id="Group_744" data-name="Group 744">
+        <circle id="Ellipse_19" data-name="Ellipse 19" cx="56.94" cy="56.94" r="56.94" transform="translate(0 0)" fill="#253f95"/>
+      </g>
+    </g>
+    <g id="Mask_Group_8" data-name="Mask Group 8" transform="translate(900.608 4013.608)" clip-path="url(#clip-path)">
+      <g id="growth_1_" data-name="growth (1)" transform="translate(15.69 13.046)">
+        <path id="Path_862" data-name="Path 862" d="M10,401.668H6.729A6.737,6.737,0,0,0,0,408.4v42.088a1.83,1.83,0,0,0,1.83,1.83H14.9a1.83,1.83,0,0,0,1.83-1.83V408.4A6.737,6.737,0,0,0,10,401.668Zm0,0" transform="translate(0 -340.352)" fill="#2367cb"/>
+        <path id="Path_863" data-name="Path 863" d="M117.106,321.332h-3.267a6.738,6.738,0,0,0-6.73,6.73V379.95a1.83,1.83,0,0,0,1.83,1.83h13.067a1.83,1.83,0,0,0,1.83-1.83V328.062A6.738,6.738,0,0,0,117.106,321.332Zm0,0" transform="translate(-85.512 -269.816)" fill="#2367cb"/>
+        <path id="Path_864" data-name="Path 864" d="M224.219,241h-3.267a6.859,6.859,0,0,0-6.729,6.967v65.617a1.863,1.863,0,0,0,1.83,1.894h13.066a1.863,1.863,0,0,0,1.83-1.894V247.967A6.859,6.859,0,0,0,224.219,241Zm0,0" transform="translate(-171.027 -203.516)" fill="#2367cb"/>
+        <path id="Path_865" data-name="Path 865" d="M296.844,18.152,283.94.731a1.807,1.807,0,0,0-2.9,0l-12.9,17.421a1.807,1.807,0,0,0,1.452,2.883h4.645V104.28a1.807,1.807,0,0,0,1.807,1.807h12.9a1.807,1.807,0,0,0,1.807-1.807V21.035h4.645a1.807,1.807,0,0,0,1.452-2.883Zm0,0" transform="translate(-209.988)" fill="#4876dd"/>
+      </g>
+    </g>
+  </g>
+</svg>

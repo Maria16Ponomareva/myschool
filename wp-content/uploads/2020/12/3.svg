@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2454" height="584" viewBox="0 0 2454 584">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_12" data-name="Rectangle 12" width="628" height="584" transform="translate(0 1622)" fill="#f3f8ff"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.102" y1="0.09" x2="0.771" y2="1.054" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#dfe6f0"/>
+      <stop offset="1" stop-color="#bcd1ef"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#7854d6" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#7d4fd5" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#da5dff"/>
+      <stop offset="1" stop-color="#da5dff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_21" data-name="Group 21" transform="translate(0 -1700)">
+    <g id="Mask_Group_3" data-name="Mask Group 3" transform="translate(0 78)" clip-path="url(#clip-path)">
+      <path id="Rectangle_14" data-name="Rectangle 14" d="M211.025,3.649,697.6,12.063c116.546,2.015,212.659,96.808,214.674,211.725l8.414,479.78C922.707,818.485,829.862,910.011,713.316,908l-486.579-8.414C110.191,897.566,14.078,802.774,12.063,687.856L3.649,208.076C1.634,93.159,94.479,1.634,211.025,3.649Z" transform="matrix(0.559, 0.829, -0.829, 0.559, 214.888, 1544.385)" opacity="0.7" fill="url(#linear-gradient)"/>
+    </g>
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="75" cy="75" r="75" transform="translate(2304 1700)" opacity="0.5" fill="url(#linear-gradient-2)"/>
+    <circle id="Ellipse_2" data-name="Ellipse 2" cx="99.5" cy="99.5" r="99.5" transform="translate(1356 2273.362) rotate(-135)" opacity="0.2" fill="url(#linear-gradient-3)"/>
+  </g>
+</svg>
